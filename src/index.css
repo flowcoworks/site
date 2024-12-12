@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Westmount";
+    src: local("Westmount"),
+      url(./assets/font.ttf) ;
+}
+
+body {
+    font-family: 'Westmount'; /* Añade una fuente por defecto como respaldo */
+}
+
+html {
+    background-color: #2A4C4D;
+
+}

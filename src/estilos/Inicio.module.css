@@ -1,0 +1,36 @@
+.fondo {
+    position: relative; /* Necesario para el pseudo-elemento */
+    overflow: hidden; /* Asegúrate de que el contenido no se desborde */
+    padding-top: 10rem;
+}
+
+.fondo::before {
+    content: ""; /* Crea un pseudo-elemento */
+    position: fixed; /* Posición absoluta para cubrir el fondo */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('../assets/background.webp');
+    background-size: cover; /* Asegura que la imagen cubra completamente el área */
+    background-position: center; /* Centra la imagen de fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    z-index: -1; /* Asegúrate de que esté detrás del contenido */
+}
+
+.fondo::after {
+    content: ""; /* Crea un pseudo-elemento */
+    position: fixed; /* Posición absoluta para cubrir el fondo */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(38, 45, 34, 0.663); /* Color negro semi-transparente */
+    z-index: -1; /* Asegúrate de que esté detrás del contenido */
+}
+
+/* Estilos adicionales para el contenido */
+.fondo > * {
+    position: relative; /* Asegúrate de que el contenido esté por encima del fondo */
+    z-index: 1; /* Asegúrate de que el contenido esté en frente */
+}
