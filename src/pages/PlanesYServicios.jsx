@@ -166,7 +166,7 @@ const PlanesYServicios = () => {
             {/* PRECIOS */}
             <p className="text-[#DFE466] rounded-badge border-[#DFE466] border w-40 mx-auto pt-0 pb-1 px-2">
               {t("planVirtualTarifa")}-{" "}
-              <span className="text-[#F5F6DD]"> $190</span>
+              <span className="text-[#F5F6DD]"> $130</span>
             </p>
 
             <p className="mt-20 w-5/6 mx-auto text-[#DFE466] -tracking-[.10em] leading-5 text-lg">
