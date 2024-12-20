@@ -30,7 +30,7 @@ const PlanesYServicios = () => {
           <div className="text-center ml-6 px-5 ">
             <a
               target="_blank"
-              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flowcoworks,%20me%20interesa%20su%20plan%20N%C3%B3mada,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo"
+              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flow20%Coworks,%20me%20interesa%20su%20Plan%20N%C3%B3mada,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo."
             >
               <h1 className="text-5xl sm:text-7xl hover:font-bold text-[#F5F6DD] mx-auto -tracking-[.10em] mr-10 mt-6 mb-6">
                 {t("planNomadaLabel")}
@@ -95,7 +95,7 @@ const PlanesYServicios = () => {
           <div className="text-center ml-6  ">
             <a
               target="_blank"
-              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flowcoworks,%20me%20interesa%20su%20Plan%20Residente,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo"
+              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flow20%Coworks,%20me%20interesa%20su%20Plan%20Residente,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo."
             >
               <h1 className="text-5xl sm:text-7xl hover:font-bold text-[#F5F6DD] mx-auto -tracking-[.10em] mr-10 mt-6 mb-6">
                 {t("planResidenteLabel")}
@@ -157,7 +157,7 @@ const PlanesYServicios = () => {
           <div className="text-center ml-6  ">
             <a
               target="_blank"
-              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flowcoworks,%20me%20interesa%20su%20Plan%20Virtual,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo"
+              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flow20%Coworks,%20me%20interesa%20su%20Plan%20Virtual,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo."
             >
               <h1 className="text-5xl sm:text-7xl hover:font-bold text-[#F5F6DD] mx-auto -tracking-[.10em] mr-10 mt-6 mb-6">
                 {t("planVirtualLabel")}
@@ -207,7 +207,7 @@ const PlanesYServicios = () => {
           <div className="text-center ml-6  ">
             <a
               target="_blank"
-              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flowcoworks,%20me%20interesa%20su%20Plan%20Anexos,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo"
+              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flow20%Coworks,%20me%20interesa%20su%20Plan%20Anexos,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo."
             >
               <h1 className="text-5xl sm:text-7xl hover:font-bold text-[#F5F6DD] mx-auto -tracking-[.10em] mr-10 mt-6 mb-6">
                 {t("planAnexosLabel")}
@@ -313,7 +313,7 @@ const PlanesYServicios = () => {
             <img className="absolute w-56 left-[5rem] sm:left-[8rem]" src={imgServicios1} alt="" />
             <a
               target="_blank"
-              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flowcoworks,%20me%20interesa%20su%20Servicio%20de%201%20Day%20Pass,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo"
+              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flow%20Coworks,%20me%20interesa%20su%20Servicio%20de%201%20Day%20Pass,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo."
             >
               <h1 className="text-5xl sm:text-7xl text-center py-20 hover:font-bold -tracking-[.10em] text-yellow-50 ml-0 md:ml-24 bottom-4 relative">
                 1 day pass
@@ -337,7 +337,7 @@ const PlanesYServicios = () => {
             <img className="absolute w-56 left-[5rem] sm:left-[8rem]" src={imgServicios2} alt="" />
             <a
               target="_blank"
-              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flowcoworks,%20me%20interesa%20su%20Servicio%20de%203%20Days%20Pass,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo"
+              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flow%20Coworks,%20me%20interesa%20su%20Servicio%20de%203%20Days%20Pass,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo."
             >
               <h1 className="text-5xl sm:text-7xl text-center py-20 hover:font-bold -tracking-[.10em] text-yellow-50 ml-0 md:ml-24 bottom-4 relative">
                 3 days pass
@@ -361,7 +361,7 @@ const PlanesYServicios = () => {
             <img className="absolute w-56 left-[5rem] sm:left-[8rem] pt-5" src={imgServicios3} alt="" />
             <a
               target="_blank"
-              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flowcoworks,%20me%20interesa%20su%20Servicio%20de%201%20Week%20Pass,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo"
+              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flow%20Coworks,%20me%20interesa%20su%20Servicio%20de%201%20Week%20Pass,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo."
             >
               <h1 className="text-5xl sm:text-7xl text-center py-20 hover:font-bold -tracking-[.10em] text-yellow-50 ml-0 md:ml-24 bottom-4 relative">
                 1 week pass
@@ -385,7 +385,7 @@ const PlanesYServicios = () => {
             <img className="absolute w-56 left-[5rem] sm:left-[8rem] " src={imgServicios4} alt="" />
             <a
               target="_blank"
-              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flowcoworks,%20me%20interesa%20su%20Servicio%20de%20Flows%20Hub,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo"
+              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flow%20Coworks,%20me%20interesa%20su%20Servicio%20de%20Flow%20Hub,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo."
             >
               <h1 className="text-5xl sm:text-7xl text-center py-20 hover:font-bold -tracking-[.10em] text-yellow-50 ml-0 md:ml-24 bottom-4 relative">
                 FLOW HUB
@@ -413,7 +413,7 @@ const PlanesYServicios = () => {
             <img className="absolute left-[5rem] sm:left-[8rem] w-56" src={imgServicios1} alt="" />
             <a
               target="_blank"
-              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flowcoworks,%20me%20interesa%20su%20Servicio%20de%20Eventos,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo"
+              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flow%20Coworks,%20me%20interesa%20su%20Servicio%20de%20Eventos,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo."
             >
               <h1 className="text-5xl sm:text-7xl text-center py-20 hover:font-bold -tracking-[.10em] text-yellow-50 ml-0 md:ml-24 bottom-4 relative">
                 {t("eventsLabel")}
