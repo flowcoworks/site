@@ -148,7 +148,7 @@ const Nosotros = () => {
                   alt=""
                 />
                 <p className="text-yellow-50 -tracking-[.10em] leading-5 mt-2 text-[18px]">
-                Franchesca Padron
+                Francheska Padron
                 </p>
                 <p className="text-[#DFE466] text-sm -tracking-[.10em] leading-4">
                 Asistente Administrativo
