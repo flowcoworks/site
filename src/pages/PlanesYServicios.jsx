@@ -41,19 +41,19 @@ const PlanesYServicios = () => {
             <div className="grid grid-cols-4 ">
               <div className="text-center leading-1  -tracking-[.10em] text-lg rounded-l-badge border-[#DFE466] border">
                 <p className="text-[#DFE466] leading-none">1 DAY PASS</p>
-                <p className="text-yellow-50 ">$20</p>
+                <p className="text-yellow-50 ">REF20</p>
               </div>
               <div className="text-center leading-1  -tracking-[.10em] text-lg  border-[#DFE466] border">
                 <p className="text-[#DFE466] leading-none">3 DAY PASS</p>
-                <p className="text-yellow-50 ">$50</p>
+                <p className="text-yellow-50 ">REF50</p>
               </div>
               <div className="text-center leading-1  -tracking-[.10em] text-lg  border-[#DFE466] border">
                 <p className="text-[#DFE466] leading-none">1 WEEK PASS</p>
-                <p className="text-yellow-50 ">$80</p>
+                <p className="text-yellow-50 ">REF80</p>
               </div>
               <div className="text-center leading-1  -tracking-[.10em] text-lg rounded-r-badge border-[#DFE466] border">
                 <p className="text-[#DFE466] leading-none">1 MONTH PASS</p>
-                <p className="text-yellow-50 ">$130</p>
+                <p className="text-yellow-50 ">REF130</p>
               </div>
             </div>
 
