@@ -41,19 +41,19 @@ const PlanesYServicios = () => {
             <div className="grid grid-cols-4 ">
               <div className="text-center leading-1  -tracking-[.10em] text-lg rounded-l-badge border-[#DFE466] border">
                 <p className="text-[#DFE466] leading-none">1 DAY PASS</p>
-                <p className="text-yellow-50 ">REF20</p>
+                <p className="text-yellow-50 ">REF 20</p>
               </div>
               <div className="text-center leading-1  -tracking-[.10em] text-lg  border-[#DFE466] border">
                 <p className="text-[#DFE466] leading-none">3 DAY PASS</p>
-                <p className="text-yellow-50 ">REF50</p>
+                <p className="text-yellow-50 ">REF 50</p>
               </div>
               <div className="text-center leading-1  -tracking-[.10em] text-lg  border-[#DFE466] border">
                 <p className="text-[#DFE466] leading-none">1 WEEK PASS</p>
-                <p className="text-yellow-50 ">REF80</p>
+                <p className="text-yellow-50 ">REF 80</p>
               </div>
               <div className="text-center leading-1  -tracking-[.10em] text-lg rounded-r-badge border-[#DFE466] border">
                 <p className="text-[#DFE466] leading-none">1 MONTH PASS</p>
-                <p className="text-yellow-50 ">REF130</p>
+                <p className="text-yellow-50 ">REF 130</p>
               </div>
             </div>
 
@@ -104,7 +104,7 @@ const PlanesYServicios = () => {
             {/* PRECIOS */}
             <p className="text-[#DFE466] rounded-badge border-[#DFE466] border w-40 mx-auto pt-0 pb-1 px-2">
               {t("planResidenteTarifa")}-{" "}
-              <span className="text-[#F5F6DD]"> $190</span>
+              <span className="text-[#F5F6DD]"> REF 190</span>
             </p>
 
             <p className="mt-20 w-5/6 mx-auto text-[#DFE466] -tracking-[.10em] leading-5 text-lg">
@@ -166,7 +166,7 @@ const PlanesYServicios = () => {
             {/* PRECIOS */}
             <p className="text-[#DFE466] rounded-badge border-[#DFE466] border w-40 mx-auto pt-0 pb-1 px-2">
               {t("planVirtualTarifa")}-{" "}
-              <span className="text-[#F5F6DD]"> $130</span>
+              <span className="text-[#F5F6DD]"> REF 130</span>
             </p>
 
             <p className="mt-20 w-5/6 mx-auto text-[#DFE466] -tracking-[.10em] leading-5 text-lg">
@@ -217,11 +217,11 @@ const PlanesYServicios = () => {
             <div className="xl:grid grid-cols-2 border rounded-badge border-[#DFE466] xl:w-[30rem] mx-5 xl:mx-auto">
               <p className="text-[#DFE466]  w-full  xl:border-r border-[#DFE466]   mx-auto pt-0 pb-1 px-2">
                 {t("planAnexosTarifa1")}-{" "}
-                <span className="text-[#F5F6DD]"> $850</span>
+                <span className="text-[#F5F6DD]"> REF 850</span>
               </p>
               <p className="text-[#DFE466]  xl:border-l border-[#DFE466]  w-full mx-auto pt-0 pb-1 px-2">
                 {t("planAnexosTarifa2")}-{" "}
-                <span className="text-[#F5F6DD]"> $670</span>
+                <span className="text-[#F5F6DD]"> REF 670</span>
               </p>
             </div>
 
@@ -326,7 +326,7 @@ const PlanesYServicios = () => {
           </div>
           <div className="my-auto mx-auto py-5 sm:border sm:border-[#DFE466] sm:rounded-badge md:py-0">
             <p className="text-yellow-50 text-center mx-auto sm:relative sm:-top-1 sm:h-6 my-10 md:my-0 text-lg w-[4rem]  border sm:border-none border-[#DFE466] rounded-badge">
-              $20
+              REF 20
             </p>
           </div>
         </div>
@@ -350,7 +350,7 @@ const PlanesYServicios = () => {
           </div>
           <div className="my-auto mx-auto py-5 sm:border sm:border-[#DFE466] sm:rounded-badge md:py-0">
             <p className="text-yellow-50 text-center mx-auto sm:relative sm:-top-1 sm:h-6 my-10 md:my-0 text-lg w-[4rem]  border sm:border-none border-[#DFE466] rounded-badge">
-              $50
+              REF 50
             </p>
           </div>
         </div>
@@ -374,7 +374,7 @@ const PlanesYServicios = () => {
           </div>
           <div className="my-auto mx-auto py-5 sm:border sm:border-[#DFE466] sm:rounded-badge md:py-0">
             <p className="text-yellow-50 text-center mx-auto sm:relative sm:-top-1 sm:h-6 my-10 md:my-0 text-lg w-[4rem]  border sm:border-none border-[#DFE466] rounded-badge">
-              $80
+              REF 80
             </p>
           </div>
         </div>
@@ -402,7 +402,7 @@ const PlanesYServicios = () => {
           </div>
           <div className="my-auto mx-auto py-5 sm:border sm:border-[#DFE466] sm:rounded-badge md:py-0">
             <p className="text-yellow-50 text-center mx-auto sm:relative sm:-top-1 sm:h-6 my-10 md:my-0 text-lg w-[4rem]  border sm:border-none border-[#DFE466] rounded-badge">
-              $20
+              REF 20
             </p>
           </div>
         </div>
@@ -432,7 +432,7 @@ const PlanesYServicios = () => {
 
           {/* <div className="flex items-center justify-center my-auto mx-auto border border-[#DFE466] rounded-badge  md:py-0">
             <p className="text-yellow-50 text-center leading-10 relative -top-1 text-lg w-[4rem]  flex items-center justify-center h-8">
-              $150
+              REF 150
             </p>
           </div> */}
 
