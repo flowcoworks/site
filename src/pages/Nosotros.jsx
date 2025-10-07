@@ -164,7 +164,7 @@ const Nosotros = () => {
                   alt=""
                 />
                 <p className="text-yellow-50 -tracking-[.10em] leading-5 mt-2 text-[18px]">
-                Teresa Olascuaga
+                Roger Rondon
                 </p>
                 <p className="text-[#DFE466] text-sm -tracking-[.10em] leading-4">
                 Especialista en Marketing
