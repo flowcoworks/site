@@ -201,7 +201,7 @@ const PlanesYServicios = () => {
           </div>
         </div>
 
-        {/* CARD - PLAN ANEXOS */}
+        {/* CARD - PLAN ANEXO */}
         <div className=" rounded-badge bg-[#2A4C4D] md:grid grid-cols-2 mx-5 sm:mx-24  mt-14">
           {/* COL 1 */}
           <div className="text-center ml-6  ">
