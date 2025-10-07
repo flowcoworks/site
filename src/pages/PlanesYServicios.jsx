@@ -207,87 +207,87 @@ const PlanesYServicios = () => {
           <div className="text-center ml-6  ">
             <a
               target="_blank"
-              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flow20%Coworks,%20me%20interesa%20su%20Plan%20Anexos,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo."
+              href="https://api.whatsapp.com/send/?phone=+584142530642&text=Hola%20Flow20%Coworks,%20me%20interesa%20su%20Plan%20Anexo,%20quiero%20comunicarme%20con%20un%20miembro%20de%20su%20equipo."
             >
               <h1 className="text-5xl sm:text-7xl hover:font-bold text-[#F5F6DD] mx-auto -tracking-[.10em] mr-10 mt-6 mb-6">
-                {t("planAnexosLabel")}
+                {t("planAnexoLabel")}
               </h1>
             </a>
             {/* PRECIOS */}
             <div className="xl:grid grid-cols-2 border rounded-badge border-[#DFE466] xl:w-[30rem] mx-5 xl:mx-auto">
               <p className="text-[#DFE466]  w-full  xl:border-r border-[#DFE466]   mx-auto pt-0 pb-1 px-2">
-                {t("planAnexosTarifa1")}-{" "}
+                {t("planAnexoTarifa1")}-{" "}
                 <span className="text-[#F5F6DD]"> REF 850</span>
               </p>
               <p className="text-[#DFE466]  xl:border-l border-[#DFE466]  w-full mx-auto pt-0 pb-1 px-2">
-                {t("planAnexosTarifa2")}-{" "}
+                {t("planAnexoTarifa2")}-{" "}
                 <span className="text-[#F5F6DD]"> REF 670</span>
               </p>
             </div>
 
             <p className="mt-12 w-5/6 mx-auto text-[#DFE466] -tracking-[.10em] leading-5 text-lg">
-              {t("planAnexosP1")}
+              {t("planAnexoP1")}
             </p>
 
             <div className="grid grid-cols-2 mt-5 text-base">
               <ul className=" text-left leading-5 border-r border-[#DFE466]">
                 <li className="text-[#F5F6DD]">
                   <span className="text-[#DFE466]">-</span>{" "}
-                  {t("planAnexos01C1")}
+                  {t("planAnexo01C1")}
                 </li>
                 <li className="text-[#F5F6DD]">
                   <span className="text-[#DFE466]">-</span>{" "}
-                  {t("planAnexos01C2")}
+                  {t("planAnexo01C2")}
                 </li>
                 <li className="text-[#F5F6DD]">
                   <span className="text-[#DFE466]">-</span>{" "}
-                  {t("planAnexos01C3")}
+                  {t("planAnexo01C3")}
                 </li>
                 <li className="text-[#F5F6DD]">
                   <span className="text-[#DFE466]">-</span>{" "}
-                  {t("planAnexos01C4")}
+                  {t("planAnexo01C4")}
                 </li>
                 <li className="text-[#F5F6DD]">
                   <span className="text-[#DFE466]">-</span>{" "}
-                  {t("planAnexos01C5")}
+                  {t("planAnexo01C5")}
                 </li>
                 <li className="text-[#F5F6DD]">
                   <span className="text-[#DFE466]">-</span>{" "}
-                  {t("planAnexos01C6")}
+                  {t("planAnexo01C6")}
                 </li>
                 <li className="text-[#F5F6DD]">
                   <span className="text-[#DFE466]">-</span>{" "}
-                  {t("planAnexos01C7")}
+                  {t("planAnexo01C7")}
                 </li>
               </ul>
               <ul className=" text-left ml-3 leading-5">
                 <li className="text-[#F5F6DD]">
                   <span className="text-[#DFE466]">-</span>{" "}
-                  {t("planAnexos01C1")}
+                  {t("planAnexo01C1")}
                 </li>
                 <li className="text-[#F5F6DD]">
                   <span className="text-[#DFE466]">-</span>{" "}
-                  {t("planAnexos0203C2")}
+                  {t("planAnexo0203C2")}
                 </li>
                 <li className="text-[#F5F6DD]">
                   <span className="text-[#DFE466]">-</span>{" "}
-                  {t("planAnexos0203C3")}
+                  {t("planAnexo0203C3")}
                 </li>
                 <li className="text-[#F5F6DD]">
                   <span className="text-[#DFE466]">-</span>{" "}
-                  {t("planAnexos0203C4")}
+                  {t("planAnexo0203C4")}
                 </li>
                 <li className="text-[#F5F6DD]">
                   <span className="text-[#DFE466]">-</span>{" "}
-                  {t("planAnexos0203C5")}
+                  {t("planAnexo0203C5")}
                 </li>
                 <li className="text-[#F5F6DD]">
                   <span className="text-[#DFE466]">-</span>{" "}
-                  {t("planAnexos0203C6")}
+                  {t("planAnexo0203C6")}
                 </li>
                 <li className="text-[#F5F6DD]">
                   <span className="text-[#DFE466]">-</span>{" "}
-                  {t("planAnexos0203C7")}
+                  {t("planAnexo0203C7")}
                 </li>
               </ul>
             </div>
