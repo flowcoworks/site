@@ -438,7 +438,7 @@ const PlanesYServicios = () => {
 
           <div className="my-auto mx-auto py-5 sm:border sm:border-[#DFE466] sm:rounded-badge md:py-0">
             <p className="text-yellow-50 text-center mx-auto sm:relative sm:-top-1 sm:h-6 my-10 md:my-0 text-lg w-[4rem]  border sm:border-none border-[#DFE466] rounded-badge">
-              $150
+              REF 150
             </p>
           </div>
         </div>
